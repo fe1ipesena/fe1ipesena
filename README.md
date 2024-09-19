@@ -33,10 +33,10 @@
 ###
 
 <div align="right">
-  <a href="yuto,666" target="_blank">
+  <a href="https://tinyurl.com/fe1ipesena" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="felipecsena877@gmail.com" target="_blank">
+  <a href="mailto:felipecsena877@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/felipe-sena-8a6ab7266" target="_blank">
