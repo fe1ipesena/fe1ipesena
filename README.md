@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -33,6 +34,7 @@
 ###
 
 <div align="right">
+  <h3>Contact me</h3>
   <a href="https://tinyurl.com/fe1ipesena" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
