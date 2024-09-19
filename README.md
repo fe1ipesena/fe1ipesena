@@ -52,6 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fe1ipesena/fe1ipesena/output/snake.svg" alt="Snake animation" />
+![snake gif]
+(https://github.com/fe1ipesena/fe1ipesena/blob/output/github-contribution-grid-snake.svg)
 
 ###
