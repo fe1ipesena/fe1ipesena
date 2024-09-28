@@ -41,7 +41,7 @@
   <a href="mailto:felipecsena877@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/felipe-sena-8a6ab7266" target="_blank">
+  <a href="https://www.linkedin.com/in/fe1ipesena" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
